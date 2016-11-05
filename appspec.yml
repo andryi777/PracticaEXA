@@ -1,7 +1,7 @@
-Version:0.0
+Version: 0.0
 OS: linux
 file:
     source: /app
     destination: /var/www/html
     timeout: 300
-    runas:root
+    runas: root
